@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="GitHub.Api" Version="1.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
